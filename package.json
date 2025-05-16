@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "@config-plugins/react-native-ble-plx": "^7.0.0",
+    "buffer": "^6.0.3",
     "react-native-ble-manager": "^12.1.4",
+    "react-native-ble-plx": "^3.5.0",
     "react-native-location-enabler": "^4.1.1"
   }
 }
